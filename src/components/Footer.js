@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="bg-light py-5">
       <div className="container">
         <div className="small text-center text-muted">
-          Copyright &copy; 2019 - Gatsby Starter Creative
+          Copyright &copy; 2020 - HARRY Co., Ltd. designed by Kaku
         </div>
       </div>
     </footer>
