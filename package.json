@@ -4,11 +4,11 @@
   "description": "Gatsby.js V2 starter template based on Creative by startbootstrap",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-creative.git"
+    "url": "http://bhb-harry.netlify.com"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "HARRY Co.,Ltd.",
+    "email": "info@bhb-harry.co.jp"
   },
   "dependencies": {
     "gatsby": "^2.4.3",
@@ -45,7 +45,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-creative/issues"
+    "url": "http://bhb-harry.netlify.com"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-creative#readme"
+  "homepage": "http://bhb-harry.netlify.com"
 }
