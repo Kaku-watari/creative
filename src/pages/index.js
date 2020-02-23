@@ -84,9 +84,8 @@ const IndexPage = () => (
             <h2 className="text-white mt-0">We've got what you need!</h2>
             <hr className="divider light my-4" />
             <p className="text-white-50 mb-4">
-              Start Bootstrap has everything you need to get your new website up
-              and running in no time! Choose one of our open source, free to
-              download, and easy to use themes! No strings attached!
+              Our contents has everything you need to get your new website up
+              and running in no time! Choose one easy to use themes!
             </p>
             <Scroll type="id" element="services">
               <a
@@ -111,7 +110,7 @@ const IndexPage = () => (
               <i className="fas fa-4x fa-gem text-primary mb-4"></i>
               <h3 className="h4 mb-2">Sturdy Themes</h3>
               <p className="text-muted mb-0">
-                Our themes are updated regularly to keep them bug free!
+                Our contents are updated regularly to keep them trouble free!
               </p>
             </div>
           </div>
@@ -120,7 +119,7 @@ const IndexPage = () => (
               <i className="fas fa-4x fa-laptop-code text-primary mb-4"></i>
               <h3 className="h4 mb-2">Up to Date</h3>
               <p className="text-muted mb-0">
-                All dependencies are kept current to keep things fresh.
+                All dependencies are kept current to keep things fresh. *Option
               </p>
             </div>
           </div>
@@ -138,7 +137,7 @@ const IndexPage = () => (
               <i className="fas fa-4x fa-heart text-primary mb-4"></i>
               <h3 className="h4 mb-2">Made with Love</h3>
               <p className="text-muted mb-0">
-                Is it really open source if it's not made with love?
+                It is really creative content made with love.
               </p>
             </div>
           </div>
@@ -152,12 +151,12 @@ const IndexPage = () => (
 
     <section className="page-section bg-dark text-white">
       <div className="container text-center">
-        <h2 className="mb-4">Free Download Gatsby Starter!</h2>
+        <h2 className="mb-4">Let's open new wolrd with us!</h2>
         <a
           className="btn btn-light btn-xl"
-          href="https://github.com/anubhavsrivastava/gatsby-starter-creative"
+          href="https://bhb-harry.netlify.com"
         >
-          Download Now!
+          Contact us!
         </a>
       </div>
     </section>
