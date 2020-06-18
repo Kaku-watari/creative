@@ -4,11 +4,11 @@
   "description": "Gatsby.js V2 starter template based on Creative by startbootstrap",
   "repository": {
     "type": "git",
-    "url": "http://bhb-harry.netlify.com"
+    "url": "https://bhb-harry.netlify.com"
   },
   "author": {
     "name": "HARRY Co.,Ltd.",
-    "email": "info@bhb-harry.co.jp"
+    "email": "https://bhb-harry.netlify.com"
   },
   "dependencies": {
     "gatsby": "^2.4.3",
@@ -45,7 +45,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "http://bhb-harry.netlify.com"
+    "url": "https://bhb-harry.netlify.com"
   },
-  "homepage": "http://bhb-harry.netlify.com"
+  "homepage": "https://bhb-harry.netlify.com"
 }
